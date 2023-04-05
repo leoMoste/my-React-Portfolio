@@ -128,11 +128,6 @@ const Projects = () => {
           </p>
           <div className="flex justify-center mt-5"></div>
         </div>
-
-        <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at.
-        </p>
       </motion.div>
 
       {/* DESKTOP NAV */}

@@ -51,8 +51,9 @@ const MySkills = () => {
             MY <span className="text-red">SKILLS</span>
           </p>
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            <span className="text-2xl text-blue"> Here!</span> is a list for
+            some of programming languages and technologies that I have
+            experience with.
           </p>
         </motion.div>
 
